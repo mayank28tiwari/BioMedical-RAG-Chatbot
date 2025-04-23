@@ -1,0 +1,10 @@
+torch
+transformers
+chromadb
+sentence-transformers
+tqdm
+diffusers
+accelerate
+langdetect
+Pillow
+gradio
